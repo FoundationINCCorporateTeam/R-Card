@@ -1,0 +1,22 @@
+# JSON data directory (contains user data)
+/jsondata/
+
+# PHP
+*.log
+*.cache
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+/tmp/
+*.tmp
